@@ -523,7 +523,7 @@ function App() {
               </svg>
             </div>
             <h3 className="contact-info-title-dark">Email</h3>
-            <a href="mailto:contato@beckerpneus.com.br" className="contact-info-text-dark">contato@beckerpneus.com.br</a>
+            <a href="mailto:beckercomercio@gmail.com" className="contact-info-text-dark">beckercomercio@gmail.com</a>
           </div>
 
           {/* Site */}
@@ -583,7 +583,7 @@ function App() {
                   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
                   <polyline points="22,6 12,13 2,6"></polyline>
                 </svg>
-                <a href="mailto:contato@beckerpneus.com.br">contato@beckerpneus.com.br</a>
+                <a href="mailto:beckercomercio@gmail.com">beckercomercio@gmail.com</a>
               </li>
             </ul>
           </div>
