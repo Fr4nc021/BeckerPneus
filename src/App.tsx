@@ -536,7 +536,7 @@ function App() {
               </svg>
             </div>
             <h3 className="contact-info-title-dark">Site</h3>
-            <a href="#EmProducao" target="_blank" rel="noopener noreferrer" className="contact-info-text-dark">www.beckerpneus.com.br</a>
+            <a href="#em-producao" onClick={(e) => { e.preventDefault(); setShowEmProducao(true); window.location.hash = 'em-producao'; }} className="contact-info-text-dark">www.beckerpneus.com.br</a>
           </div>
       
         </div>
@@ -612,6 +612,9 @@ function App() {
         <div className="footer-bottom">
           <p className="footer-copyright">
             © {new Date().getFullYear()} BeckerPneus. Todos os direitos reservados.
+          </p>
+          <p className="footer-codebtfranco">
+           Desenvolvido por <a href="https://www.instagram.com/codebyfranco/" target="_blank" rel="noopener noreferrer" className="footer-codebyfranco-link">CodeBy<span className="footer-franco">Franco</span></a>.
           </p>
         </div>
       </div>

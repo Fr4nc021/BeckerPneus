@@ -1693,6 +1693,32 @@
   margin: 0;
 }
 
+.footer-codebtfranco {
+  font-size: 0.875rem;
+  color: #64748b;
+  margin: 0.5rem 0 0 0;
+  font-weight: 500;
+}
+
+.footer-codebyfranco-link {
+  color: #64748b;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-codebyfranco-link:hover {
+  color: #2563eb;
+}
+
+.footer-codebyfranco-link .footer-franco {
+  color: #2563eb;
+  font-weight: 600;
+}
+
+.footer-codebyfranco-link:hover .footer-franco {
+  color: #1d4ed8;
+}
+
 /* Responsive Footer */
 @media (max-width: 1024px) {
   .footer-content {
