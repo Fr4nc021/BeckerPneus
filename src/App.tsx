@@ -536,7 +536,7 @@ function App() {
               </svg>
             </div>
             <h3 className="contact-info-title-dark">Site</h3>
-            <a href="https://www.beckerpneus.com.br" target="_blank" rel="noopener noreferrer" className="contact-info-text-dark">www.beckerpneus.com.br</a>
+            <a href="#EmProducao" target="_blank" rel="noopener noreferrer" className="contact-info-text-dark">www.beckerpneus.com.br</a>
           </div>
       
         </div>
